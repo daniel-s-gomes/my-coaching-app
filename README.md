@@ -8,14 +8,13 @@ Learn more about IDE Support for Vue in the [Vue Docs Scaling up Guide](https://
 
 Howdy coaches and spinners this new and improved Table Tennis Coaches App fronm SuperSpin! Totally adaptable to any type of device! 
 
-Just use our search fields to search and filter out your name and location! Either in ascending or descending order.
+Just use our search fields to search and filter out your name and location! Also use the hourly rate dropdown to sort high to low or vice versa!
 
 Enjoy,
 
 DEVS:
 
 to initiate php api: php -S localhost:8000 -t backend
-
 
 to run project: npm run dev
 
