@@ -15,6 +15,8 @@ Enjoy,
 DEVS:
 
 to initiate php api: php -S localhost:8000 -t backend
+
+
 to run project: npm run dev
 
 
